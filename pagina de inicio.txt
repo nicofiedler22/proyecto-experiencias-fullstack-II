@@ -3,15 +3,14 @@
 	<head>
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Experiencias</title>
-        <link rel="stylesheet" href="css/style.css">
+		<title>Álbum de Ejemplo</title>
 
 	</head>
 	<body>
 
 		<header id="encabezado">
-			<h1>Experiencias para tus cinco sentidos</h1>
-			<p>Experiencias</p>
+			<h1>Álbum de Ejemplo</h1>
+			<p>Una galería simple con HTML5 y CSS</p>
 
 			<nav id="menu-principal">
 				<ul>
@@ -37,11 +36,10 @@
 					<!-- Tarjeta 1 -->
 					<article class="tarjeta">
 						<div class="espacio-imagen">
-						
+							<!-- Aquí iría una imagen -->
 						</div>
-						<h3>Experiencia sensorial</h3>
-                        <img src="C:\Users\Duoc\Desktop\proyecto-experiencias\img\vista.jpg" width="200" height="200">
-						<p>Un paseo nocturno con linternas para explorar murales y grafitis, descubriendo una perspectiva visual completamente nueva y llena de sombras y contrastes en espacios cotidianos.</p>
+						<h3>Título 1</h3>
+						<p>Descripción breve de este elemento del álbum.</p>
 					</article>
 
 					<!-- Tarjeta 2 -->
@@ -112,7 +110,7 @@
 		</main>
 
 		<footer id="pie">
-			<p><small>&copy; 2026 Álbum de Ejemplo - Todos los derechos reservados</small></p>
+			<p><small>&copy; 2025 Álbum de Ejemplo - Todos los derechos reservados</small></p>
 		</footer>
 	</body>
 </html>
